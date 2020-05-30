@@ -1,6 +1,6 @@
 <html>
-<body bgcolor="#DD7711">
+<body bgcolor="#e6005c">
 <h1>Welcome to DevOps World!</h1>
-<h2>Reach me @ 8383917484 (Polarapu Prasad)</h2>
+<h2>mobile no @ 8125656045 (manoj)</h2>
 </body>
 </html>
